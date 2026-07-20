@@ -104,7 +104,7 @@ https://linkedin.com/in/yasinbesni
 https://github.com/yasinbesni
 
 📄 **Resume**  
-https://github.com/yasinbesni/yasinbesni/raw/main/Yasin_Besni_Resume.pdf
+https://github.com/yasinbesni/yasinbesni/raw/main/Yasin_Besni_FullStack_Developer_Resume.pdf
 
 📧 **Email**  
 yasinbesni@gmail.com
