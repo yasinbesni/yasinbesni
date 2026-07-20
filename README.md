@@ -2,16 +2,9 @@
 
 ### Junior Full-Stack Developer
 
-I enjoy building modern, scalable, and user-focused web applications.
+I'm a Junior Full-Stack Developer passionate about building scalable web applications and real-world digital products.
 
-Currently working with:
-
-- JavaScript
-- React
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
+Currently building Cinemovira, a multilingual movie discovery platform, while continuously improving my backend architecture and frontend development skills.
 
 🌐 Portfolio: https://cinemovira.com
 
