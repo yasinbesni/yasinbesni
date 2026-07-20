@@ -20,6 +20,10 @@ Currently developing **Cinemovira**, a multilingual movie discovery platform foc
 
 ## Cinemovira
 
+<img
+  src="assets/images/cinemovira-home.png"
+  alt="Cinemovira Home Page"
+  width="100%">
 A production-ready multilingual movie discovery platform designed with a strong focus on performance, SEO, scalability, and user experience.
 
 ### ✨ Key Features
@@ -68,6 +72,7 @@ https://cinemovira.com
 
 ## 📋 TaskPro
 
+<img src="assets/images/taskpro-dashboard.png" alt="TaskPro Dashboard" width="100%">
 A Full-Stack task management application that enables users to create, organize, update, and manage daily tasks through a clean and responsive interface.
 
 **Technologies**
@@ -78,6 +83,7 @@ React • Node.js • Express.js • MongoDB • REST API
 
 ## 💰 Money Guard
 
+<img src="assets/images/moneyguard-dashboard.png" alt="Money Guard Dashboard" width="100%">
 A personal finance management application that helps users monitor income, expenses, and financial statistics through an intuitive dashboard.
 
 **Technologies**
