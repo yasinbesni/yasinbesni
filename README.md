@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/banner.png" width="100%">
+</p>
+
 # Hi, I'm Yasin Besni 👋
 
 ### Junior Full-Stack Developer
