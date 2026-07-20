@@ -110,3 +110,11 @@ React • Redux Toolkit • Node.js • REST API
 - 💻 **GitHub:** https://github.com/yasinbesni
 - 📄 **Resume:** [View PDF](assets/cv/Yasin_Besni_FullStack_Developer_Resume.pdf)
 - 📧 **Email:** yasinbesni@gmail.com
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yasinbesni/yasinbesni/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
