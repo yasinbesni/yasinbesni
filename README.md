@@ -104,8 +104,7 @@ React • Redux Toolkit • Node.js • REST API
 
 # 📫 Contact
 
-🌐 **Portfolio**  
-https://cinemovira.com
+🌐 **Portfolio:** https://cinemovira.com
 
 💼 **LinkedIn**  
 https://linkedin.com/in/yasinbesni
