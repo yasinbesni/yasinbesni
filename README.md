@@ -103,5 +103,8 @@ https://linkedin.com/in/yasinbesni
 💻 **GitHub**  
 https://github.com/yasinbesni
 
+📄 **Resume**  
+https://github.com/yasinbesni/yasinbesni/raw/main/Yasin_Besni_Resume.pdf
+
 📧 **Email**  
 yasinbesni@gmail.com
