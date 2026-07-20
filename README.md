@@ -27,3 +27,10 @@ Currently working with:
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 👨‍💻 About Me
+
+- 🌱 Currently improving my Full-Stack development skills through real-world projects.
+- 🎬 Building **Cinemovira**, a multilingual movie discovery platform.
+- 📚 Writing a comprehensive Backend development book.
+- 💡 Passionate about clean code, scalable architecture, and continuous learning.
