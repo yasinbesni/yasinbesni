@@ -106,14 +106,10 @@ React • Redux Toolkit • Node.js • REST API
 
 🌐 **Portfolio:** https://cinemovira.com
 
-💼 **LinkedIn**  
-https://linkedin.com/in/yasinbesni
+💼 **LinkedIn:** https://linkedin.com/in/yasinbesni
 
-💻 **GitHub**  
-https://github.com/yasinbesni
+💻 **GitHub:**  https://github.com/yasinbesni
 
-📄 **Resume**  
-https://raw.githubusercontent.com/yasinbesni/yasinbesni/main/assets/cv/Yasin_Besni_FullStack_Developer_Resume.pdf
+📄 **Resume:** https://raw.githubusercontent.com/yasinbesni/yasinbesni/main/assets/cv/Yasin_Besni_FullStack_Developer_Resume.pdf
 
-📧 **Email**  
-yasinbesni@gmail.com
+📧 **Email:** yasinbesni@gmail.com
