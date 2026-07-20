@@ -16,7 +16,7 @@ Currently developing **Cinemovira**, a multilingual movie discovery platform foc
 
 ---
 
-# 🎬 Featured Project
+## 🎬 Featured Project
 
 ## Cinemovira
 
@@ -24,6 +24,7 @@ Currently developing **Cinemovira**, a multilingual movie discovery platform foc
   src="assets/images/cinemovira-home.png"
   alt="Cinemovira Home Page"
   width="100%">
+
 A production-ready multilingual movie discovery platform designed with a strong focus on performance, SEO, scalability, and user experience.
 
 ### ✨ Key Features
@@ -37,15 +38,13 @@ A production-ready multilingual movie discovery platform designed with a strong 
 - 🔗 REST API integration
 - 🗺️ Dynamic sitemap generation
 
-🌐 **Live Demo**
-
-https://cinemovira.com
+🌐 **Live Demo:** https://cinemovira.com
 
 > Source code is private because the project is actively maintained.
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -58,7 +57,7 @@ https://cinemovira.com
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🚀 Passionate about building modern Full-Stack web applications.
 - 🎬 Developing **Cinemovira**, a multilingual movie discovery platform.
@@ -73,6 +72,7 @@ https://cinemovira.com
 ## 📋 TaskPro
 
 <img src="assets/images/taskpro-dashboard.png" alt="TaskPro Dashboard" width="100%">
+
 A Full-Stack task management application that enables users to create, organize, update, and manage daily tasks through a clean and responsive interface.
 
 **Technologies**
@@ -84,6 +84,7 @@ React • Node.js • Express.js • MongoDB • REST API
 ## 💰 Money Guard
 
 <img src="assets/images/moneyguard-dashboard.png" alt="Money Guard Dashboard" width="100%">
+
 A personal finance management application that helps users monitor income, expenses, and financial statistics through an intuitive dashboard.
 
 **Technologies**
@@ -92,7 +93,7 @@ React • Redux Toolkit • Node.js • REST API
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - Building scalable Full-Stack applications
 - Improving Backend Architecture
@@ -102,14 +103,10 @@ React • Redux Toolkit • Node.js • REST API
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
-🌐 **Portfolio:** https://cinemovira.com
-
-💼 **LinkedIn:** https://linkedin.com/in/yasinbesni
-
-💻 **GitHub:**  https://github.com/yasinbesni
-
-📄 **Resume:** https://raw.githubusercontent.com/yasinbesni/yasinbesni/main/assets/cv/Yasin_Besni_FullStack_Developer_Resume.pdf
-
-📧 **Email:** yasinbesni@gmail.com
+- 🌐 **Portfolio:** https://cinemovira.com
+- 💼 **LinkedIn:** https://linkedin.com/in/yasinbesni
+- 💻 **GitHub:** https://github.com/yasinbesni
+- 📄 **Resume:** [View PDF](assets/cv/Yasin_Besni_FullStack_Developer_Resume.pdf)
+- 📧 **Email:** yasinbesni@gmail.com
