@@ -4,15 +4,15 @@
 
 # Hi, I'm Yasin Besni 👋
 
-### Junior Full-Stack Developer
+### Full-Stack Developer
 
-I'm a Junior Full-Stack Developer passionate about building scalable web applications, REST APIs, and real-world digital products using modern JavaScript technologies.
+I'm a  Full-Stack Developer passionate about building scalable web applications, REST APIs, and real-world digital products using modern JavaScript technologies.
 
 Currently developing **Cinemovira**, a multilingual movie discovery platform focused on performance, SEO, and user experience while continuously improving my backend architecture and frontend development skills.
 
 🌐 **Portfolio:** https://cinemovira.com
 
-💼 **Open to:** Junior Full-Stack Developer • Frontend Developer • Backend Developer
+💼 **Open to:**  Full-Stack Developer • Frontend Developer • Backend Developer
 
 ---
 
